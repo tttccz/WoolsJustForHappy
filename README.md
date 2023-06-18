@@ -4,4 +4,4 @@
 
 xyzwa.py - 小程序
 
-![](D:\360MoveData\Users\巩小雪\Desktop\微信图片_20230618122155.png)
+![](https://github.com/tttccz/WoolsJustForHappy/blob/main/backup/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230618122155.png)
