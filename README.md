@@ -1,8 +1,8 @@
 # WoolsJustForHappy
 
-![GitHub issues](https://img.shields.io/github/issues/KD-happy/KDCheckin?logo=github) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/KD-happy/KDCheckin?logo=github) ![GitHub forks](https://img.shields.io/github/forks/KD-happy/KDCheckin?logo=github) ![GitHub Repo stars](https://img.shields.io/github/stars/KD-happy/KDCheckin?logo=github)
+![GitHub issues](https://img.shields.io/github/issues/tttccz/WoolsJustForHappy?logo=github) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/tttccz/WoolsJustForHappy?logo=github) ![GitHub forks](https://img.shields.io/github/forks/tttccz/WoolsJustForHappy?logo=github) ![GitHub Repo stars](https://img.shields.io/github/stars/tttccz/WoolsJustForHappy?logo=github)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/KD-happy/KDCheckin?logo=github) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/KD-happy/KDCheckin?logo=github) ![GitHub repo size](https://img.shields.io/github/repo-size/KD-happy/KDCheckin?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/tttccz/WoolsJustForHappy?logo=github) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tttccz/WoolsJustForHappy?logo=github) ![GitHub repo size](https://img.shields.io/github/repo-size/tttccz/WoolsJustForHappy?logo=github)
 
 ## 免责声明
 
